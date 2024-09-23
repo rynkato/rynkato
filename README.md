@@ -1,6 +1,6 @@
 # Hi, I’m Manraj! 👋
 
-I go by the alias **Rynkato** on the web, and I’m passionate about crafting high-performance, scalable, and user-centric applications. I specialize in full stack development, working extensively with technologies like **TypeScript, JavaScript, PHP, Java**, and frameworks such as **Next.js, React, Laravel, Cloudflare, Docker**, and more.
+I go by the alias **Rynkato**, and I’m passionate about crafting high-performance, scalable, and user-centric applications. I specialize in full stack development, working extensively with technologies like **TypeScript, JavaScript, PHP, Java**, and frameworks such as **Next.js, React, Laravel, Cloudflare, Docker**, and more.
 
 ## 🚀 My Key Projects
 
