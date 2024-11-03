@@ -53,7 +53,7 @@ I go by the alias **Rynkato**, and I’m passionate about crafting high-performa
 ---
 
 ## 🎯 What I’m Currently Working On
-I’m on a journey to master new technologies like **Remix** and **Vue**, while deepening my integration with **Cloudflare**. As technology evolves, I’m constantly learning to stay at the forefront of development trends.
+I’m on a journey to master new technologies like **Remix** and **Next.js**, while deepening my integration with **Cloudflare**. As technology evolves, I’m constantly learning to stay at the forefront of development trends.
 
 ## 💡 Development Approach
 I believe in creating products that are fast, scalable, and provide an outstanding user experience. These values shape the way I design and build my projects, ensuring they not only meet current needs but also scale for future growth.
